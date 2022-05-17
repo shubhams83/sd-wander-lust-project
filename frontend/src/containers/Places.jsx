@@ -39,7 +39,7 @@ const Places = () => {
         <div class="gallery">
           <Search />
         </div>
-        {<div class="heading1">Trips in Ethiopia</div>}
+        {<div class="heading1">Trips in USA</div>}
         <div class="grid">
         {places.results &&
           places.results.map((place) => (

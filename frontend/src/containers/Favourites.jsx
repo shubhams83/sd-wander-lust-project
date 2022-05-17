@@ -25,7 +25,7 @@ const Favourites = () => {
         <div class="gallery">
           <Search />
         </div>
-        <div class="heading1">Favourites in Ethiopia</div>
+        <div class="heading1">Favourites in USA</div>
         <div class="grid">
           {favourites.map((favourite) => (
             <FavCard favourite={favourite} />

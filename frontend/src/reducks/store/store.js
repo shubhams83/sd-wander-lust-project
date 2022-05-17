@@ -7,7 +7,6 @@ import {
 import {connectRouter, routerMiddleware} from "connected-react-router";
 import thunk from 'redux-thunk';
 
-import {PostsReducer} from '../posts/reducers';
 import { PlacesReducer } from '../places/reducers';
 import { CategoriesReducer } from '../categories/reducers';
 import { FavourotesReducer } from '../favourites/reducers';

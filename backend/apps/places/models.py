@@ -25,7 +25,7 @@ class Place(models.Model):
     )
 
     image = CloudinaryField(
-        'Image'
+        'image', blank=False, null=False, 
     )
     category =  models.ForeignKey(
         Category , on_delete=models.CASCADE
