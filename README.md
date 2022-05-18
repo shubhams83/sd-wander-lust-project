@@ -1,4 +1,4 @@
-# USA Tourist Guide in React & Redux + Django API
+# Wanderlust - USA Tourist Guide in React & Redux + Django API
 
 ```
 USA Tourist Guide, with a frontend built in React & Redux and a backend built in Django API.
